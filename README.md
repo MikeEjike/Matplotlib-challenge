@@ -1,1 +1,2 @@
 # Matplotlib-challenge
+For the question that asks for a line graph of a mouse that was under the drug regimen "Capomulin", I used "s185" because I didn't see any solved pictures on how the graphs and charts are suppose to look like or any specific data we were suppose to use.
